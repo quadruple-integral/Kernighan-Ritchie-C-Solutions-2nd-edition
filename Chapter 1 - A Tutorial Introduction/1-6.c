@@ -12,4 +12,4 @@ main()
 
 /* if your input in your terminal is not an EOF, the output will be 1; i.e. TRUE */
 
-/* in windows please use "ctrl + z" to print an EOF, this gives you 0 instead ; i.e. FALSE */
+/* in windows please use "ctrl + z" to print an EOF, this gives you 0 instead; i.e. FALSE */
